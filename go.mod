@@ -1,4 +1,4 @@
-module release-generator
+module github.com/david-littlefarmer/release-generator
 
 go 1.22.5
 
